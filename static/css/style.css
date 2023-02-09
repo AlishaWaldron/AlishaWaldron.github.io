@@ -982,6 +982,16 @@ mark {
   color: #5e6472;
   font-weight: 400;
 }
+.portfolio-info-in p {
+  text-align: center;
+  color: #5e6472;
+  line-height: 22px;
+  font-size: 17px;
+}
+.portfolio-info-in p:hover {
+  color: #5e6472;
+}
+
 
 .portfolio-info-in h6 {
   text-align: center;
